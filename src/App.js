@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Luu Quang Thuan test vercel
+          Luu Quang Thuan test vercel ver 2
         </p>
         <a
           className="App-link"
